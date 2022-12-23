@@ -1,11 +1,11 @@
 # Repositório do projeto TrybeSmith 
 
 <div align="center">
-  <img height="150px" align="right" src="ferreiro.jpg" />
+  <img height="250px" align="right" src="ferreiro.png" />
   <div align="left" style="display: inline_block">
     <h2>Módulo: BACK-END</h2>
     <p>
-        Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de <b>RESTFul API</b> com CRUD completo utilizando arquitetura Model-Service-Controller (MSC). 
+        Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de <b>RESTFul API</b> com CRUD completo utilizando arquitetura Model-Service-Controller (MSC) usando TypeScript. 
   </div>
   <br>
 </div>
