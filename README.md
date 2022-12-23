@@ -1,15 +1,19 @@
-# Repositório do projeto TrybeSmith ![Smith][Smith-url]
+# Repositório do projeto TrybeSmith 
 
- ## Módulo: BACK-END
- 
-  Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de <b>RESTFul API</b> com CRUD completo utilizando arquitetura Model-Service-Controller (MSC). 
+<div align="center">
+  <img height="150px" align="right" src="ferreiro.jpg" />
+  <div align="left" style="display: inline_block">
+    <h2>Módulo: BACK-END</h2>
+    <p>
+        Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de <b>RESTFul API</b> com CRUD completo utilizando arquitetura Model-Service-Controller (MSC). 
+  </div>
+  <br>
+</div>
   
 ## Informações de aprendizados
 - Este é um projeto desenvolvido para me ajudar a aprender sobre sequelize e JWT.
 - Meu primeiro projeto usando `sequelize` e `JWT`
 
-
-  
 ---
 
 ### Linguagem usadas
@@ -342,4 +346,3 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
 [MySQL-url]: https://www.mysql.com
 [Docker.io]: https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
-[Smith-url]: ferreiro.png
