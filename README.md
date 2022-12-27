@@ -1,5 +1,3 @@
-# :construction: README em construção ! :construction:
-
 # Repositório do projeto TrybeSmith 
 
 <div align="center">
