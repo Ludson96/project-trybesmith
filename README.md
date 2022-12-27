@@ -94,7 +94,7 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
 
 ## Endpoints
 
-<!-- <details> -->
+<details>
 
 ###  Rota de Produto
 
