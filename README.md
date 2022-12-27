@@ -206,6 +206,7 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
 
 ### POST `/orders`
 - Cadastra um pedido
+- Requer autenticação por token `JWT`
 - O endpoint deve receber a seguinte estrutura:
 ```json
   {
