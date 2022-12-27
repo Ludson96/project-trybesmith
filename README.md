@@ -307,7 +307,7 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
   }
   ```
 
-<!-- </details> -->
+</details>
 
 > `docker-compose.yml` arquivos fornecidos pela Trybe.
 
