@@ -16,7 +16,7 @@
 
 ---
 
-### Linguagem usadas
+## Linguagem usadas
 
 [![JavaScript][JavaScript-logo]][JavaScript-url]
 [![NodeJS][NodeJS-logo]][NodeJS-url]
@@ -49,7 +49,7 @@ Para rodar esse projeto, atente-se as variáveis de ambiente no seu .env
 
 ---
 
-### Instruções para instalar e rodar
+## Instruções para instalar e rodar
 
 1. Clone o repo:
 ```
