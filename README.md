@@ -11,11 +11,9 @@
 </div>
   
 ## Informações de aprendizados
-- Este é um projeto desenvolvido para me ajudar a aprender `TypeScript`.
-- Meu primeiro projeto usando `TypeScript`.
-
----
-
+- Este é um projeto desenvolvido para me ajudar a aprender `TypeScript`;
+- Meu primeiro projeto usando `TypeScript`;
+- Utilizei o Cliente Rest `Thunder Client`, como extensão, para visualizar o retorno do meu acesso.
 ## Linguagem usadas
 
 [![JavaScript][JavaScript-logo]][JavaScript-url]
@@ -29,9 +27,6 @@
 [![TypeScript][TypeScript-logo]][TypeScript-url]
 [![ts-node][ts-node-logo]][ts-node-url]
 [![.ENV][.ENV-logo]][.ENV-url]
-
----
-
 ## O que foi desenvolvido
 <p> 
  Uma API e um banco de dados, utilizando a arquitetura MSC (model-service-controller), de uma loja de itens medievais, no formato de uma API, utilizando Typescript! <br>
@@ -41,14 +36,11 @@
  3. Será necessária a utilização de categorias para os posts, trabalhando, assim, a relação de posts para categories e de categories para posts. <br>
 </p>
 
----
+> Arquivo `docker-compose.yml` fornecidos pela Trybe.
 
 ## Variáveis de Ambiente
 
-Para rodar esse projeto, atente-se as variáveis de ambiente no seu .env
-
----
-
+Para rodar esse projeto, atente-se as variáveis de ambiente no seu .env. Existe um arquivo `.env.example` com as informações de configurações.
 ## Instruções para instalar e rodar
 
 1. Clone o repo:
@@ -63,7 +55,7 @@ Para rodar esse projeto, atente-se as variáveis de ambiente no seu .env
 ```
   docker exec -it trybesmith bash
 ```
-4. Instale as suas dependencias:
+4. Instale as suas dependências:
 ```
   npm install
 ```
@@ -76,20 +68,14 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
 ```
   npm run dev
 ```
-6. Utilizar alguma Plataforma de API para acessar os endpoints e fazer seus devidos experimentos. Exemplos: Postman e Insomnia. Ou uma extensão no VSCode, recomendo utlizar a thunder client.
+6. Utilizar alguma Plataforma de API para acessar os endpoints e fazer seus devidos experimentos. Exemplos: Postman e Insomnia. Ou uma extensão no VSCode, recomendo utilizar a thunder client.
 
 7. Existe um arquivo chamado Trybesmith.sql. Você pode utilizar ele para criar o banco de dados e suas tabelas. Recomendo que uma ferramenta de design de banco de dados visual, como o [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-
----
-
 ## Diagrama
 
 ![Diagrama de relacionamentos das tabelas](diagrama.png)
 
-<i> Imagem disponibilizada pela Trybe </i>
-
----
-
+> _Imagem disponibilizada pela Trybe_
 ## Endpoints
 
 <details>
@@ -307,8 +293,6 @@ Outra forma de executar é utilizando o `nodemom` (permite fazer alteração em 
   ```
 
 </details>
-
-> `docker-compose.yml` arquivos fornecidos pela Trybe.
 
 [JavaScript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
